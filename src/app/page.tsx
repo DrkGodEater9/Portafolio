@@ -3,8 +3,9 @@ import Image from "next/image";
 export default function Home() {
 
   return (
-     <nav>
+     <main className="min-h-screen flex flex-col">
       
-     </nav>
+      
+    </main>
   );
 }
